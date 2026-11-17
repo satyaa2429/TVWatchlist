@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TV Watchlist</string>
+    <string name="sign_in_title">Welcome to TV Watchlist</string>
+    <string name="sign_in_subtitle">Track your favorite TV shows &amp; watching progress</string>
+    <string name="btn_google_sign_in">Sign in with Google</string>
+    <string name="btn_guest_sign_in">Continue as Guest</string>
+
+    <string name="tab_search">Search Shows</string>
+    <string name="tab_watchlist">My Watchlist</string>
+
+    <string name="search_hint">Search TV shows by title...</string>
+    <string name="btn_scan_poster">Scan Poster</string>
+
+    <string name="status_all">All</string>
+    <string name="status_plan">Plan to Watch</string>
+    <string name="status_watching">Watching</string>
+    <string name="status_completed">Completed</string>
+</resources>
